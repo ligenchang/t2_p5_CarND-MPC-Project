@@ -1,5 +1,5 @@
 # Introductions
-This is the last project of self driving car nano degree, it used model predictive control methology to deal with actuation command latency. PID controller is based on the past state and errors to predict the future state and that always leads the instabilty.
+This is the last project of self driving car nano degree, it used model predictive control methology to deal with actuation command latency convert the following trajectory as an optimization problem.
 
 
 # Describe MPC Model
